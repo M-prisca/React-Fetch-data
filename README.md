@@ -7,3 +7,7 @@
 •⁠ ⁠Display a loading indicator while fetching.
 •⁠ ⁠Show the list of posts.
 •⁠ ⁠Implement a “Refresh” button that re-fetches the posts.
+
+## Screenshot demo.
+
+![App demo](./src/assets/image.png)
